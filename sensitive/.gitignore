@@ -1,3 +1,4 @@
 #Exclude asc files
 !*.asc
 #Everythig else
+.git
